@@ -3,14 +3,13 @@ Bootstrap Feature Widgets
 
 A WordPress plugin which creates a Widget to display a featurette with a super-sized glyphicon, a title, content or latest posts and a link. The output requires [Twitter Bootstrap](http://www.getbootstrap.com) to display properly.
 
-The plugin assumes that you're already using Bootstrap, so you need to load the Bootstrap javascript and CSS separately.
+The plugin assumes that you're already using Bootstrap, so you need to load the Bootstrap CSS separately.
 
 * [Download Twitter Bootstrap](http://getbootstrap.com/)
 * [Bootstrap WordPress Theme](http://320press.com/wpbs/)
 * [Bootstrap CDN](http://www.bootstrapcdn.com/) _(hotlink CSS and javascript files)_
-* [Bootstrap Carousel in action](http://getbootstrap.com/javascript/#carousel)
 
-If you'd like to contribute to this plugin, you can find it [hosted on GitHub](https://github.com/tallphil/boostrap-feature-widgets).
+You can download this plugin from the WordPress repository: [Bootstrap Feature Widgets](http://wordpress.org/plugins/bootstrap-feature-widgets/)
 
 Installation
 ------------
